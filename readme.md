@@ -71,30 +71,37 @@ JavaScript engines also became considerably better as many browsers competed to 
 Node.js happened to be built in the right place and right time, but luck isn't the only reason why it is popular today. It introduces a lot of innovative thinking and approaches for JavaScript server-side development that have already helped many developers.
 
 2009
- - Node.js is born
+  - Node.js is born,
   -The first form of npm is created
-  2010
-  -Express is born
+
+2010
+  -Express is born,
   -Socket.io is born
-  2011
-  -npm hits version 1.0
-  -Larger companies start adopting Node.js:   -LinkedIn, Uber, etc.
+
+2011
+  -npm hits version 1.0,
+  -Larger companies start adopting Node.js: LinkedIn, Uber, etc.,
   -hapi is born
-  2012
+
+2012
   -Adoption continues very rapidly
-  2013
-  -First big blogging platform using Node.js: Ghost
+
+2013
+  -First big blogging platform using Node.js: Ghost,
   -Koa is born  
-  2014
+
+2014
   -The Big Fork: io.js is a major fork of Node.js,   with the goal of introducing ES6 support and   moving faster
-  2015
- -The Node.js Foundation is born
- -IO.js is merged back into Node.js
- -npm introduces private modules
+
+2015
+ -The Node.js Foundation is born,
+ -IO.js is merged back into Node.js,
+ -npm introduces private modules,
  -Node.js 4 (versions 1, 2 and 3 never previously released)
+
 ...fastforward
 
 2021
-  -Node.js 16
+  -Node.js 16,
   -Node.js 17 
 
