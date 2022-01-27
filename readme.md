@@ -72,10 +72,12 @@ Node.js happened to be built in the right place and right time, but luck isn't t
 
 2009
   - Node.js is born,
+	
   -The first form of npm is created
 
 2010
   -Express is born,
+	
   -Socket.io is born
 
 2011
